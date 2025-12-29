@@ -27,8 +27,7 @@ A comprehensive C++ simulation of a blockchain ecosystem, demonstrating the life
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/cpp-blockchain-simulator.git](https://github.com/YOUR_USERNAME/cpp-blockchain-simulator.git)
-    cd cpp-blockchain-simulator
+    git clone (https://github.com/zakriaCoder/DSA/edit/main/)
     ```
 
 2.  **Compile**
@@ -48,4 +47,4 @@ A comprehensive C++ simulation of a blockchain ecosystem, demonstrating the life
 4.  **Verify:** Select "View Blockchain Ledger" to see your transaction permanently recorded in a block.
 
 ---
-*Developed by [Your Name]*
+*Developed by Muhammad Zakria*
