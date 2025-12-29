@@ -27,7 +27,7 @@ A comprehensive C++ simulation of a blockchain ecosystem, demonstrating the life
 
 1.  **Clone the repository**
     ```bash
-    git clone (https://github.com/zakriaCoder/DSA/edit/main/)
+    git clone https://github.com/zakriaCoder/DSA-BlockchainCpp
     ```
 
 2.  **Compile**
