@@ -49,4 +49,4 @@ A comprehensive C++ simulation of a blockchain ecosystem, demonstrating the life
 ---
 *Developed by Muhammad Zakria*
 Linked In : https://www.linkedin.com/in/m-zakria-4b0739327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-Email: m90054237@gmail.com\
+##Email: m90054237@gmail.com\
